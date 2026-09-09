@@ -18,7 +18,7 @@ Detect **fraudulent or suspicious insurance claims** using:
 * Imbalanced learning techniques (class weights, SMOTE)
 * Anomaly detection (Isolation Forest)
 * Business rule scoring
-* Hybrid fraud scoring
+* Hybrid fraud scoring 
 * Tableau dashboard for risk visualization
 
 This project simulates a real insurance fraud analytics workflow.
